@@ -1,0 +1,6 @@
+D:\visual studio 2015\Projects\AsyncAwait\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+D:\visual studio 2015\Projects\AsyncAwait\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+D:\visual studio 2015\Projects\AsyncAwait\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+D:\visual studio 2015\Projects\AsyncAwait\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\AsyncAwait\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+D:\visual studio 2015\Projects\AsyncAwait\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
